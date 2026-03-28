@@ -1,6 +1,6 @@
 # Jaswinder Singh
 
-Backend-focused software engineer working primarily with **Go**, interested in building **reliable, scalable backend systems** and understanding infrastructure from first principles.
+Hi i am Jaswinder Singh a Backend-focused software engineer working primarily with **Go**, interested in building **reliable, scalable backend systems** and understanding infrastructure from first principles.
 
 Currently working as a Software Engineer at Fountane, building and operating production Go microservices for a multi-tenant platform. I enjoy working on problems around **concurrency, caching, correctness, and system design**.
 
